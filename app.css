@@ -1,0 +1,31 @@
+#MainMenu{
+    visibility: hidden;
+}
+footer, header{
+    visibility: hidden;
+}
+span.css-10trblm.e16nr0p30{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    top: -10px !important;
+}
+div.css-2sijqm.e16nr0p33{
+    color: rgb(0, 104, 201);
+}
+/* div.row-widget.stSelectbox{
+    width: 200px !important;
+} */
+.css-2sijqm a{
+    text-decoration: none !important;
+}
+.css-znku1x a{
+    text-decoration: none !important;
+}
+
+.appview-container{
+    /* background-image: linear-gradient(to right, #e9dbbf, #4d6464); */
+    background: rgb(219,232,246);
+    background: linear-gradient(45deg, rgba(219,232,246,1) 0%, rgba(250,220,233,1) 100%);
+}
